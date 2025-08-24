@@ -1,6 +1,6 @@
 # 📦 Dropbox Clone – Landing Page  
 
-A sleek and responsive **Dropbox-inspired landing page** built with **React**, **Tailwind CSS**, and **GSAP animations**.  
+A sleek and representive **Dropbox-inspired landing page** built with **React**, **Tailwind CSS**, and **GSAP, Framer motion animations**.  
 This project recreates the modern Dropbox feel with smooth transitions, animated text, and integrated autoplay videos — perfect for practicing front-end development and animation skills.  
 
 ## ✨ Features  
