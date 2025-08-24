@@ -22,7 +22,7 @@ This project recreates the modern Dropbox feel with smooth transitions, animated
 git clone https://github.com/yourusername/dropbox-clone.git
 
 ### 2. Navigate to the project folder
-cd dropbox-clone
+cd Box-is-dropin-Dropbox-Clone-
 
 ### 3. Install dependencies
 npm install
