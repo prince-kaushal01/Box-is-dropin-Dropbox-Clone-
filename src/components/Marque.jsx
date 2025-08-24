@@ -15,8 +15,8 @@ const marque = () => {
     <motion.div 
     initial={{x : 0}}
     animate={{x : "-100%"}}
-    transition={{duration : 45 , ease : 'linear', repeat: Infinity }}
-    className='flex gap-20 mb-20'>
+    transition={{duration : 65 , ease : 'linear', repeat: Infinity }}
+    className='flex gap-20 mb-20 cursor-pointer'>
       <img src={img1} alt="" className='h-50'/>
       <img src={img2} alt="" className='h-50'/>
       <img src={img3} alt="" className='h-50'/>

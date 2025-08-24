@@ -8,9 +8,10 @@ import Footer from './components/Footer'
 import Empower from './components/Empower'
 import Discover from './components/Discover'
 
+
 const App = () => {
   return (
-    <div className='bg-white flex flex-col items-center'>
+    <div id="main-container" className='bg-white flex flex-col items-center data-scroll-container'>
       <Navbar />
       <Permission />
       <Content />

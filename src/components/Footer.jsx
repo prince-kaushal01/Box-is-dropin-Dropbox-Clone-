@@ -67,10 +67,10 @@ const Footer = () => {
         )}
       </div>
       </div>
-      <div className="flex gap-5">
-        <FaXTwitter size={30}/>
-        <FaFacebook size={26}/>
-        <FaYoutube size={26}/>
+      <div className="flex gap-5 ">
+        <FaXTwitter size={30} className="cursor-pointer"/>
+        <FaFacebook size={26} className="cursor-pointer"/>
+        <FaYoutube size={26} className="cursor-pointer"/>
       </div>
       <div className="border border-b-1 border-[#353332] mt-10 w-[150px]">
       </div>
