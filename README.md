@@ -10,12 +10,10 @@ This project recreates the modern Dropbox feel with smooth transitions, animated
 - 📱 Fully responsive layout for all screen sizes  
 - 📹 Autoplay video integration for a dynamic look  
 
-## 🚀 Live Demo  
-[🔗 View Live](#) *(Add your deployed link here)*  
-
 ## 🛠️ Tech Stack  
 - **React**  
-- **Tailwind CSS**  
+- **Tailwind CSS**
+- **Framer motion** 
 - **GSAP**  
 - **JavaScript (ES6+)**  
 
