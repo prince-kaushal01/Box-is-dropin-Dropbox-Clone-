@@ -1,12 +1,35 @@
-# React + Vite
+# 📦 Dropbox Clone – Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive **Dropbox-inspired landing page** built with **React**, **Tailwind CSS**, and **GSAP animations**.  
+This project recreates the modern Dropbox feel with smooth transitions, animated text, and integrated autoplay videos — perfect for practicing front-end development and animation skills.  
 
-Currently, two official plugins are available:
+## ✨ Features  
+- ⚡ **React + Vite** for a fast development experience  
+- 🎨 **Tailwind CSS** for clean, responsive styling  
+- 🎞 **GSAP animations** for smooth, modern UI transitions  
+- 📱 Fully responsive layout for all screen sizes  
+- 📹 Autoplay video integration for a dynamic look  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+[🔗 View Live](#) *(Add your deployed link here)*  
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack  
+- **React**  
+- **Tailwind CSS**  
+- **GSAP**  
+- **JavaScript (ES6+)**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📥 Installation  
+
+### 1. Clone the repo
+git clone https://github.com/yourusername/dropbox-clone.git
+
+### 2. Navigate to the project folder
+cd dropbox-clone
+
+### 3. Install dependencies
+npm install
+
+### 4. Start development server
+npm run dev
+```bash this is my read me file
