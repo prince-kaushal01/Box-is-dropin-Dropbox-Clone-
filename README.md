@@ -7,7 +7,6 @@ This project recreates the modern Dropbox feel with smooth transitions, animated
 - ⚡ **React + Vite** for a fast development experience  
 - 🎨 **Tailwind CSS** for clean, responsive styling  
 - 🎞 **GSAP animations** for smooth, modern UI transitions  
-- 📱 Fully responsive layout for all screen sizes  
 - 📹 Autoplay video integration for a dynamic look  
 
 ## 🛠️ Tech Stack  
