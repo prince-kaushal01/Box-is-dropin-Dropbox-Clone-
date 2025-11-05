@@ -2,7 +2,7 @@ import React from 'react';
 import { TbShieldLock } from "react-icons/tb";
 import { FaArrowRight } from "react-icons/fa6";
 import { IoIosArrowRoundForward } from "react-icons/io";
-import Marque from './marque'
+import Marque from './Marque'
 import gsap from 'gsap';
 import { useRef, useLayoutEffect } from 'react';
 import { ScrollTrigger } from 'gsap/all';
